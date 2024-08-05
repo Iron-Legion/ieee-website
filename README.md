@@ -16,8 +16,6 @@ Website of TCET IEEE Student's chapter
 ![Contact](https://user-images.githubusercontent.com/73239142/230458949-f6f29888-7bc7-4626-8f7e-e08efa43c5e2.png)
 
 
-Here's a possible GitHub project description for your "ieee-website" project:
-
 ---
 
 # IEEE Website
